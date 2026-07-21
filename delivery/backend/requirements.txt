@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+openpyxl
+python-multipart
+python-dotenv
+motor
+pymongo
+requests
+bcrypt
+google-auth
