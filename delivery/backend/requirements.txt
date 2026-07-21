@@ -12,3 +12,4 @@ requests
 bcrypt
 google-auth
 reportlab
+python-jose
