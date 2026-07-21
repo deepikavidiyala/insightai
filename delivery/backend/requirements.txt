@@ -11,3 +11,4 @@ pymongo
 requests
 bcrypt
 google-auth
+reportlab
